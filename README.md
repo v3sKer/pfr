@@ -9,7 +9,7 @@ This is a C# application that randomly selects a specified number of students fr
 To use this program, follow these steps:
 
 1. Clone the repository or download the ZIP file.
-2. Open the solution file (`StudentChooserApp.sln`) in Visual Studio.
+2. Open the folder in Visual Studio.
 3. Build the solution by selecting Build > Build Solution from the main menu.
 4. Start the program by pressing F5 or selecting Debug > Start Debugging from the main menu.
 
@@ -39,7 +39,7 @@ If you'd like to contribute to this project, please fork the repository and crea
 
 ## License
 
-This program is licensed under the MIT License. See the LICENSE file for details.
+This program is not licensed under any licenses, and it is presented "as it is", use it at your own risk.
 
 ________________________________________________________________________________________________________________________________
 
@@ -50,7 +50,7 @@ ________________________________________________________________________________
 Pentru a utiliza această aplicație, urmați acești pași:
 
 1. Clonați repository-ul sau descărcați fișierul ZIP.
-2. Deschideți fișierul soluției (`StudentChooserApp.sln`) în Visual Studio.
+2. Deschideți folder-ul soluției în Visual Studio.
 3. Compilați soluția selectând Build > Build Solution din meniul principal.
 4. Porniți programul apăsând F5 sau selectând Debug > Start Debugging din meniul principal.
 
@@ -79,4 +79,8 @@ Această aplicație a fost creată utilizând C# și .NET Framework. Pentru a co
 Dacă doriți să contribuiți la acest proiect, vă rugăm să faceți un fork al repository-ului și să creați o cerere de trage cu schimbările dumneavoastră.
 
 ## Licență
+
+Acest cod nu este sub orice tip de licență, și este prezentat "așa cum este", îl folosiți la propriul risc.
+
+
 
