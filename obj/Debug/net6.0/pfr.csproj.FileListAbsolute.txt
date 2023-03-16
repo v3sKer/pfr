@@ -1,0 +1,15 @@
+C:\Users\v3sker\Desktop\vscode\pfr\bin\Debug\net6.0\pfr.exe
+C:\Users\v3sker\Desktop\vscode\pfr\bin\Debug\net6.0\pfr.deps.json
+C:\Users\v3sker\Desktop\vscode\pfr\bin\Debug\net6.0\pfr.runtimeconfig.json
+C:\Users\v3sker\Desktop\vscode\pfr\bin\Debug\net6.0\pfr.dll
+C:\Users\v3sker\Desktop\vscode\pfr\bin\Debug\net6.0\pfr.pdb
+C:\Users\v3sker\Desktop\vscode\pfr\obj\Debug\net6.0\pfr.csproj.AssemblyReference.cache
+C:\Users\v3sker\Desktop\vscode\pfr\obj\Debug\net6.0\pfr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v3sker\Desktop\vscode\pfr\obj\Debug\net6.0\pfr.AssemblyInfoInputs.cache
+C:\Users\v3sker\Desktop\vscode\pfr\obj\Debug\net6.0\pfr.AssemblyInfo.cs
+C:\Users\v3sker\Desktop\vscode\pfr\obj\Debug\net6.0\pfr.csproj.CoreCompileInputs.cache
+C:\Users\v3sker\Desktop\vscode\pfr\obj\Debug\net6.0\pfr.dll
+C:\Users\v3sker\Desktop\vscode\pfr\obj\Debug\net6.0\refint\pfr.dll
+C:\Users\v3sker\Desktop\vscode\pfr\obj\Debug\net6.0\pfr.pdb
+C:\Users\v3sker\Desktop\vscode\pfr\obj\Debug\net6.0\pfr.genruntimeconfig.cache
+C:\Users\v3sker\Desktop\vscode\pfr\obj\Debug\net6.0\ref\pfr.dll
